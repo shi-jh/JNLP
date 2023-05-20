@@ -4,4 +4,4 @@ pandas==2.0.1
 scikit_learn==1.2.2
 streamlit==1.22.0
 tensorflow==2.12.0
-tensorflow_intel==2.12.0
+intel_tensorflow==2.12.0
